@@ -3,3 +3,4 @@ expressional.social
 mastodon.social
 radikal.social
 youtube.com
+m.youtube.com
