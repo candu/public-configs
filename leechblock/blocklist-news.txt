@@ -23,6 +23,7 @@ npr.org
 nytimes.com
 reuters.com
 sky.com
+theatlantic.com
 theguardian.com
 theverge.com
 truthout.org
