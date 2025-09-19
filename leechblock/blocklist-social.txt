@@ -1,6 +1,5 @@
 bsky.app
-expressional.social
-mastodon.social
-radikal.social
+*.social
+mstdn.ca
 youtube.com
 m.youtube.com
