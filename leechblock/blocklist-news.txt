@@ -1,4 +1,5 @@
 abc.net.au
+abcnews.go.com
 aljazeera.com
 apnews.com
 axios.com
@@ -29,4 +30,5 @@ theguardian.com
 theverge.com
 truthout.org
 tv2.dk
+wbez.org
 whatthefuckjusthappenedtoday.com
