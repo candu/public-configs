@@ -1,4 +1,5 @@
 bsky.app
+cosocial.ca
 *.social
 mstdn.ca
 youtube.com
