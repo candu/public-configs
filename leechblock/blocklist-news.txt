@@ -12,6 +12,7 @@ dr.dk
 economist.com
 euronews.com
 foreignpolicy.com
+foxnews.com
 globalnews.com
 independent.co.uk
 kqed.org
