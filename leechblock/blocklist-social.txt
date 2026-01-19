@@ -1,4 +1,5 @@
 bsky.app
+*.community
 cosocial.ca
 *.social
 mstdn.ca
