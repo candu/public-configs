@@ -31,7 +31,10 @@ propublica.org
 reuters.com
 rollingstone.com
 sky.com
+startribune.com
 theatlantic.com
+theconversation.com
+theconversation.eu
 theguardian.com
 thestar.com
 theverge.com
