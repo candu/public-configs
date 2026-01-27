@@ -21,6 +21,7 @@ motherjones.com
 msn.com
 nbcnews.com
 newrepublic.com
+news.google.com
 news.sky.com
 newsweek.com
 npr.org
