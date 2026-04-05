@@ -3,5 +3,6 @@ bsky.app
 cosocial.ca
 *.social
 mstdn.ca
+news.ycombinator.com
 youtube.com
 m.youtube.com
