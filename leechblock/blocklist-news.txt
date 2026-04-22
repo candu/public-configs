@@ -30,6 +30,7 @@ nytimes.com
 politico.com
 politico.eu
 propublica.org
+reason.com
 reuters.com
 rollingstone.com
 sky.com
