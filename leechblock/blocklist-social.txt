@@ -4,5 +4,6 @@ cosocial.ca
 *.social
 mstdn.ca
 news.ycombinator.com
+twitch.tv
 youtube.com
 m.youtube.com
